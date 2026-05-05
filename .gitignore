@@ -8,13 +8,11 @@ pyvenv.cfg
 __pycache__/
 *.pyc
 
-# Model files (optional)
+# Model files (BERAT)
 *.pkl
 
 # Dataset
 *.csv
 
-# OS files
-.DS_Store
-Thumbs.db
-
+# Misc
+share/
